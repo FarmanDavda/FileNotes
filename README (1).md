@@ -40,4 +40,4 @@ this is sample note write using FileWriter
 ```
 
 ## Author
-Davda Farman
+Farman Davda
